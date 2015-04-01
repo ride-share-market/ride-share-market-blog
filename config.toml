@@ -1,0 +1,14 @@
+baseurl = "http://blog.ridesharemarket.com/"
+
+languageCode = "en-us"
+
+title = "Ride Share Market Blog"
+
+[permalinks]
+    post = ":year/:month/:day/:title/"
+    fixed = ":title/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

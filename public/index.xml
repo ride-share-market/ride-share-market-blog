@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ride Share Market Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ride Share Market Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2015 11:10:37 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact-us/</link>
+      <pubDate>Wed, 01 Apr 2015 11:10:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/contact-us/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;large-12 columns&#34;&gt;
+    
+    &lt;h3&gt;Contact Us&lt;/h3&gt;
+
+    &lt;p&gt;
+    You may contact us directly, click here to reveal &lt;a
+        href=&#34;http://www.google.com/recaptcha/mailhide/d?k=018LlPIxwBJBGEA_-iI3ZNKA==&amp;amp;c=XUafmriPsyubkalfZ5PWQ1DJ7lphIHn3JeJOUGv7fXZ6mdxabj8Rnuoq796wU94b&#34;
+        onclick=&#34;window.open(&#39;http://www.google.com/recaptcha/mailhide/d?k\075018LlPIxwBJBGEA_-iI3ZNKA\75\75\46c\75XUafmriPsyubkalfZ5PWQ1DJ7lphIHn3JeJOUGv7fXZ6mdxabj#
+        title=&#34;Reveal this e-mail address&#34;&gt;s...@ridesharemarket.com&lt;/a&gt;
+    &lt;/p&gt;
+    
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deployment with Docker</title>
+      <link>http://localhost:1313/2015/03/31/deployment-with-docker/</link>
+      <pubDate>Tue, 31 Mar 2015 18:59:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/2015/03/31/deployment-with-docker/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;large-12 columns&#34;&gt;
+    &lt;p&gt;Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;large-6 columns&#34;&gt;
+        &lt;p&gt;Boudin aliqua adipisicing rump corned beef. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;large-6 columns&#34;&gt;
+        &lt;img src=&#34;http://placehold.it/400x240&amp;text=[img]&#34;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.&lt;/p&gt;
+
+&lt;p&gt;Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about-us/</link>
+      <pubDate>Tue, 31 Mar 2015 13:55:33 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about-us/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;large-12 columns&#34;&gt;
+    
+        &lt;h3&gt;About Us&lt;/h3&gt;
+
+        &lt;ul&gt;The goal of this project is to provide:
+            &lt;li&gt;Easy to use site for finding or offering ride sharing trips.&lt;/li&gt;
+        &lt;/ul&gt;
+        
+        &lt;ul&gt;The web site should be:
+            &lt;li&gt;Responsive: Mobile, Tablet and Desktop friendly.&lt;/li&gt;
+            &lt;li&gt;Accessible.&lt;/li&gt;
+            &lt;li&gt;Free to use.&lt;/li&gt;
+        &lt;/ul&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
